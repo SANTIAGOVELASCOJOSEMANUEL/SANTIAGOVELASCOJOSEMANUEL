@@ -7,8 +7,4 @@
 SANTIAGOVELASCOJOSEMANUEL/SANTIAGOVELASCOJOSEMANUEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h4 align="right">Visitor's count :eyes:</h4>
-<p align="right"><img src="https://github.com/SANTIAGOVELASCOJOSEMANUEL" alt="SANTIAGOVELASCOJOSEMANUEL :: Visitor's Count" /></p>
-
-
 
